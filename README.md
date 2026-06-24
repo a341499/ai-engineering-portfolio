@@ -48,17 +48,17 @@ The portfolio demonstrates hands-on implementation of:
 
 
 
-| ID | Project..................................... | Category...... | Status... |
+| ID | Project | Category | Status |
 
-|----|----------------------------------------------|----------------|-----------|
+|----|---------|----------|--------|
 
-| P1 | Enterprise Knowledge RAG Assistant.......... | RAG........... | Completed |
+| P1 | Enterprise Knowledge RAG Assistant | RAG | Completed |
 
-| P2 | Agentic Regression Triage Assistant......... | Agentic AI.... | Completed |
+| P2 | Agentic Regression Triage Assistant | Agentic AI | Completed |
 
-| P3 | Enterprise Multi-Agent Operations Assistant. | Multi-Agent AI | Completed |
+| P3 | Enterprise Multi-Agent Operations Assistant | Multi-Agent AI | Completed |
 
-| P4 | Release Reliability \& Observability Platform | Observability. | Completed |
+| P4 | Release Reliability \& Observability Platform | Observability | Completed |
 
 
 
@@ -70,19 +70,19 @@ The portfolio demonstrates hands-on implementation of:
 
 
 
-| ID... | Project.................................................... | Category................ | Status... |
+| ID | Project | Category | Status |
 
-|-------|-------------------------------------------------------------|--------------------------|-----------|
+|----|---------|----------|--------|
 
-| AIGA1 | Enterprise AI Knowledge Platform........................... | Knowledge Platform / RAG | Completed |
+| AIGA1 | Enterprise AI Knowledge Platform | Knowledge Platform / RAG | Completed |
 
-| AIGA2 | Enterprise Automation \& Workflow Platform.................. | Workflow Automation..... | Planned.. |
+| AIGA2 | Enterprise Automation \& Workflow Platform | Workflow Automation | Planned |
 
-| AIGA3 | Autonomous AI Agent Platform............................... | Agentic AI.............. | Planned.. |
+| AIGA3 | Autonomous AI Agent Platform | Agentic AI | Planned |
 
-| AIGA4 | Enterprise Voice \& Multimodal Intelligence Platform........ | Multimodal AI........... | Planned.. |
+| AIGA4 | Enterprise Voice \& Multimodal Intelligence Platform | Multimodal AI | Planned |
 
-| AIGA5 | Autonomous Research, Productization \& Monetization Platform | Research \& Monetization. | Planned.. |
+| AIGA5 | Autonomous Research, Productization \& Monetization Platform | Research \& Monetization | Planned |
 
 
 
