@@ -23,23 +23,24 @@ The portfolio demonstrates hands-on implementation of:
 
 ## AI Transition Roadmap Portfolio
 
-| ID | Project | Category | Status | Repository |
-|---|---|---|---|---|
-| P1 | Enterprise Knowledge RAG Assistant | RAG | Completed | [GitHub](https://github.com/a341499/enterprise-knowledge-rag-assistant) |
-| P2 | Agentic Regression Triage Assistant | Agentic AI | Completed | [GitHub](https://github.com/a341499/agentic-regression-triage-assistant) |
-| P3 | Enterprise Multi-Agent Operations Assistant | Multi-Agent AI | Completed | [GitHub](https://github.com/a341499/enterprise-multi-agent-operations-assistant) |
-| P4 | Release Reliability & Observability Platform | Observability | Completed | [GitHub](https://github.com/a341499/release-reliability-observability-platform) |
+| ID | Project                                                                                                               | Category       | Status    |
+| -- | --------------------------------------------------------------------------------------------------------------------- | -------------- | --------- |
+| P1 | [Enterprise Knowledge RAG Assistant](https://github.com/a341499/enterprise-knowledge-rag-assistant)                   | RAG            | Completed |
+| P2 | [Agentic Regression Triage Assistant](https://github.com/a341499/agentic-regression-triage-assistant)                 | Agentic AI     | Completed |
+| P3 | [Enterprise Multi-Agent Operations Assistant](https://github.com/a341499/enterprise-multi-agent-operations-assistant) | Multi-Agent AI | Completed |
+| P4 | [Release Reliability & Observability Platform](https://github.com/a341499/release-reliability-observability-platform) | Observability  | Completed |
+
 ---
 
 ## AI Generalist Accelerator Portfolio
 
-| ID | Project | Category | Status |
-|---|---|---|---|
-| AIGA1 | Enterprise AI Knowledge Platform | Knowledge Platform / RAG | Completed |
-| AIGA2 | Enterprise Automation & Workflow Platform | Workflow Automation | Planned |
-| AIGA3 | Autonomous AI Agent Platform | Agentic AI | Planned |
-| AIGA4 | Enterprise Voice & Multimodal Intelligence Platform | Multimodal AI | Planned |
-| AIGA5 | Autonomous Research, Productization & Monetization Platform | Research & Monetization | Planned |
+| ID    | Project                                                                                         | Category                 | Status    |
+| ----- | ----------------------------------------------------------------------------------------------- | ------------------------ | --------- |
+| AIGA1 | [Enterprise AI Knowledge Platform](https://github.com/a341499/enterprise-ai-knowledge-platform) | Knowledge Platform / RAG | Completed |
+| AIGA2 | Enterprise Automation & Workflow Platform                                                       | Workflow Automation      | Planned   |
+| AIGA3 | Autonomous AI Agent Platform                                                                    | Agentic AI               | Planned   |
+| AIGA4 | Enterprise Voice & Multimodal Intelligence Platform                                             | Multimodal AI            | Planned   |
+| AIGA5 | Autonomous Research, Productization & Monetization Platform                                     | Research & Monetization  | Planned   |
 
 ---
 
