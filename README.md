@@ -23,13 +23,12 @@ The portfolio demonstrates hands-on implementation of:
 
 ## AI Transition Roadmap Portfolio
 
-| ID | Project | Category | Status |
-|---|---|---|---|
-| P1 | Enterprise Knowledge RAG Assistant | RAG | Completed |
-| P2 | Agentic Regression Triage Assistant | Agentic AI | Completed |
-| P3 | Enterprise Multi-Agent Operations Assistant | Multi-Agent AI | Completed |
-| P4 | Release Reliability & Observability Platform | Observability | Completed |
-
+| ID | Project | Category | Status | Repository |
+|---|---|---|---|---|
+| P1 | Enterprise Knowledge RAG Assistant | RAG | Completed | [GitHub](https://github.com/a341499/enterprise-knowledge-rag-assistant) |
+| P2 | Agentic Regression Triage Assistant | Agentic AI | Completed | [GitHub](https://github.com/a341499/agentic-regression-triage-assistant) |
+| P3 | Enterprise Multi-Agent Operations Assistant | Multi-Agent AI | Completed | [GitHub](https://github.com/a341499/enterprise-multi-agent-operations-assistant) |
+| P4 | Release Reliability & Observability Platform | Observability | Completed | [GitHub](https://github.com/a341499/release-reliability-observability-platform) |
 ---
 
 ## AI Generalist Accelerator Portfolio
