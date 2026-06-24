@@ -44,21 +44,21 @@ The portfolio demonstrates hands-on implementation of:
 
 
 
-\## Completed Projects
+\## AI Transition Roadmap Portfolio
 
 
 
-| ID | Project | Status |
+| ID | Project                                      | Category       | Status    |
 
-|----|----------|----------|
+|----|----------------------------------------------|----------------|-----------|
 
-| P1 | Enterprise Knowledge RAG Assistant | Completed |
+| P1 | Enterprise Knowledge RAG Assistant           | RAG            | Completed |
 
-| P2 | Agentic Regression Triage Assistant | Completed |
+| P2 | Agentic Regression Triage Assistant          | Agentic AI     | Completed |
 
-| P3 | Enterprise Multi-Agent Operations Assistant | Completed |
+| P3 | Enterprise Multi-Agent Operations Assistant  | Multi-Agent AI | Completed |
 
-| P4 | Release Reliability \& Observability Platform | In Progress |
+| P4 | Release Reliability \& Observability Platform | Observability  | Completed |
 
 
 
@@ -70,19 +70,19 @@ The portfolio demonstrates hands-on implementation of:
 
 
 
-| ID | Project | Status |
+| ID   | Project                                                      | Category                 | Status    |
 
-|----|----------|----------|
+|-------|-------------------------------------------------------------|--------------------------|-----------|
 
-| AIGA1 | Enterprise AI Knowledge Platform | In Progress |
+| AIGA1 | Enterprise AI Knowledge Platform                            | Knowledge Platform / RAG | Completed |
 
-| AIGA2 | Enterprise Automation \& Workflow Platform | Planned |
+| AIGA2 | Enterprise Automation \& Workflow Platform                   | Workflow Automation      | Planned   |
 
-| AIGA3 | Autonomous AI Agent Platform | Planned |
+| AIGA3 | Autonomous AI Agent Platform                                | Agentic AI               | Planned   |
 
-| AIGA4 | Enterprise Voice \& Multimodal Intelligence Platform | Planned |
+| AIGA4 | Enterprise Voice \& Multimodal Intelligence Platform         | Multimodal AI            | Planned   |
 
-| AIGA5 | Autonomous Research, Productization \& Monetization Platform | Planned |
+| AIGA5 | Autonomous Research, Productization \& Monetization Platform | Research \& Monetization  | Planned   |
 
 
 
@@ -94,7 +94,7 @@ The portfolio demonstrates hands-on implementation of:
 
 
 
-Coming Soon
+Under Development
 
 
 
@@ -106,7 +106,7 @@ Coming Soon
 
 
 
-Coming Soon
+Under Development
 
 
 
@@ -118,5 +118,5 @@ Coming Soon
 
 
 
-Coming Soon
+Under Development
 
