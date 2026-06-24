@@ -48,35 +48,17 @@ The portfolio demonstrates hands-on implementation of:
 
 
 
-\### Enterprise Knowledge RAG Assistant
+| ID | Project | Status |
 
+|----|----------|----------|
 
+| P1 | Enterprise Knowledge RAG Assistant | Completed |
 
-Status: Completed
+| P2 | Agentic Regression Triage Assistant | Completed |
 
+| P3 | Enterprise Multi-Agent Operations Assistant | Completed |
 
-
-\### Agentic Regression Triage Assistant
-
-
-
-Status: Completed
-
-
-
-\### Enterprise Multi-Agent Operations Assistant
-
-
-
-Status: Completed
-
-
-
-\### Release Reliability \& Observability Platform
-
-
-
-Status: In Progress
+| P4 | Release Reliability \& Observability Platform | In Progress |
 
 
 
@@ -88,43 +70,19 @@ Status: In Progress
 
 
 
-\### Enterprise AI Knowledge Platform
+| ID | Project | Status |
 
+|----|----------|----------|
 
+| AIGA1 | Enterprise AI Knowledge Platform | In Progress |
 
-Status: In Progress
+| AIGA2 | Enterprise Automation \& Workflow Platform | Planned |
 
+| AIGA3 | Autonomous AI Agent Platform | Planned |
 
+| AIGA4 | Enterprise Voice \& Multimodal Intelligence Platform | Planned |
 
-\### Enterprise Automation \& Workflow Platform
-
-
-
-Status: Planned
-
-
-
-\### Autonomous AI Agent Platform
-
-
-
-Status: Planned
-
-
-
-\### Enterprise Voice \& Multimodal Intelligence Platform
-
-
-
-Status: Planned
-
-
-
-\### Autonomous Research, Productization \& Monetization Platform
-
-
-
-Status: Planned
+| AIGA5 | Autonomous Research, Productization \& Monetization Platform | Planned |
 
 
 
